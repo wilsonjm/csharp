@@ -1,14 +1,14 @@
-# clike
+# csharp plugin for Light Table
 
-A Clojure library designed to ... well, that part is up to you.
+A plugin supporting csharp syntax
 
 ## Usage
 
-FIXME
+For users developing small csharp programs inside Light Table. Makes Light Table available to more programmers
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Jason
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
