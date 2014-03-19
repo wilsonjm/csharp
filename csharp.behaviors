@@ -1,0 +1,4 @@
+{:+ {:app [(:lt.objs.plugins/load-js ["codemirror/clike.js" "clike.js"])]
+     :editor.csharp [:lt.plugins.csharp/eval-on-save :lt.plugins.csharp/on-eval (:lt.objs.editor/tab-settings false 4 4)]
+     :files [(:lt.objs.files/file-types [{:name "CSHARP" :exts [:cs] :mime "text/x-csharp" :tags [:editor.csharp]}])]
+     :csharp.lang [:lt.plugins.csharp/eval!]}}
