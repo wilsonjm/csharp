@@ -3,7 +3,7 @@
   "author": "Jason",
   "version": "0.0.1",
   "source": "https://github.com/wilsonjm/LightTable/CSharp",
-  "desc": "C-like language plugin for Light Table",
+  "desc": "Csharp plugin for Light Table",
   "dependancies": {
   },
   "behaviors": "csharp.behaviors"
